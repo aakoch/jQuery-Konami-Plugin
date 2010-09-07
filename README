@@ -1,0 +1,6 @@
+Konami jQuery Plugin
+Adam A. Koch
+http://www.adamkoch.com/2009/10/20/konami-jquery-plugin/
+
+I found a jQuery plugin (http://www.newmediacampaigns.com/page/konami-code-jquery-plugin-pointlessly-easy) to add the Konami code (http://en.wikipedia.org/wiki/Konami_Code) to your website, but I think mine is better. Mine works in IE8. Here's a demo: http://www.adamkoch.com/konami.html.
+
